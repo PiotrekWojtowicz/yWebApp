@@ -1,5 +1,4 @@
 <h1 align="center">yWebApp</h1>
-<h5 align="center">Jest to indywidualny projekt zaliczeniowy z przedmiotu Techniki WWW</h5>
 
 ---
 
@@ -43,7 +42,7 @@ Podstawowy diagram interakcji z użytkownikiem prezentuje się następująco
 ## Narzędzia i technologie <a name="nit"></a>
 Tech stack opierał się o następujące języki i technologie:
 
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,svelte,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,react,spring,java,mongo,docker)](https://skillicons.dev)
 
 ---
 
